@@ -1,0 +1,29 @@
+{
+  "name": "contentful-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/last-rev-llc/contentful-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/last-rev-llc/contentful-scripts/issues"
+  },
+  "homepage": "https://github.com/last-rev-llc/contentful-scripts#readme",
+  "devDependencies": {
+    "contentful-management": "^5.8.0",
+    "csv-parser": "^2.3.0",
+    "dotenv": "^8.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-import": "^2.17.3",
+    "lodash": "^4.17.11"
+  }
+}

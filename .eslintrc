@@ -1,0 +1,20 @@
+{
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "extends": "airbnb-base",
+  "rules": {
+    "no-param-reassign": [2, { "props": false }],
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "max-len": ["error", {"comments": 240, "code": 240, "ignoreUrls":true, "ignoreStrings": true}],
+    "arrow-body-style": ["error", "as-needed"],
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": false}]
+  },
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "ecmaFeatures": {
+      "legacyDecorators": true
+    }
+  }
+}

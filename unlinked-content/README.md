@@ -1,0 +1,2 @@
+# Unlinked Content
+Depending on how you create your content models, you sometimes have content that can not be loaded on a page unless its linked by another piece of content. Use this script if you want to find content items that are not linked by another content item so that you can archive them. 
