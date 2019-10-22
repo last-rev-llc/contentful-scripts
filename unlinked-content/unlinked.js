@@ -1,6 +1,14 @@
 const _ = require('lodash');
+const contentfulMgmt = require('contentful-management');
+
 require('dotenv').config();
-const { timing, contentful } = require('../common');
+
+// Create a .env file and add the following variables
+const environment = process.env.CONTENTFUL_ENVIRONEMNT;
+const spaceId = process.env.CONTETNFUL_SPACE_ID;
+const clientMgmt = contentfulMgmt.createClient({
+  accessToken: process.env.CONTENTFUL_MANAGEMENT_API,
+});
 
 const content_types = [
   'redesignModuleQuote',
@@ -70,8 +78,29 @@ const content_types = [
   'modalBecomePartner',
 ];
 
+
+const getClientWithEnv = async (environment) => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const space = await clientMgmt.getSpace(spaceId);
+      const env = await space.getEnvironment(environment);
+      resolve(env);
+    } catch (error) {
+      reject(error);
+    }
+  });
+};
+
+const delay = (milliseconds) => {
+  return new Promise((resolve, reject) => {
+    setTimeout(async () => { 
+      resolve();
+    }, milliseconds);
+  });
+}
+
 (async () => {
-  const env = await contentful.clientWithEnv();
+  const env = await getClientWithEnv(environment);
   for (let y = 0; y < content_types.length; y++) {
     const content_type = content_types[y];
     const entries = await env.getEntries({ content_type, limit: 1000 });
@@ -86,7 +115,7 @@ const content_types = [
         console.log(`${entry.sys.updatedAt}, ${entry.isPublished()}, ${content_type}, ${_.replace(_.get(entry, 'fields.internalTitle.en-US', _.get(entry, 'fields.title.en-US', '')), ',', '')}, ${entry.sys.id}`);
         unlinkedEntries.push(entry.sys.id);
       }
-      timing.delay(200);
+      delay(200);
     }
   }
   console.log('done!');

@@ -1,27 +1,28 @@
+/* eslint-disable no-console */
+/* eslint-disable import/no-extraneous-dependencies */
 require('dotenv').config();
 const contentfulMgmt = require('contentful-management');
-const environment = process.env.CONTENTFUL_ENVIRONMENT;
-const spaceId = process.env.CONTENTFUL_SPACE_ID;
+const contentful = require('contentful');
+
 const clientMgmt = contentfulMgmt.createClient({
   accessToken: process.env.CONTENTFUL_MANAGEMENT_API,
 });
 
-const clientWithEnv = async () => {
-  return new Promise(async (resolve, reject) => {
-    try {
-      console.log(spaceId);
-      const space = await clientMgmt.getSpace(spaceId).catch(error => console.log(error));
-      const env = await space.getEnvironment(environment).catch(error => console.log(error));
-      resolve(env);
-    } catch (error) {
-      reject(error);
-    }
-  });
+const clientWithEnv = async (spaceId, environment) => {
+  const space = await clientMgmt.getSpace(spaceId).catch(error => console.log(error));
+  return space.getEnvironment(environment).catch(error => console.log(error));
 };
 
-module.exports = {
+
+const clientDelivery = (space, environment) => contentful.createClient({
+  space,
   environment,
-  spaceId,
-  clientMgmt,
+  accessToken: process.env.CONTENTFUL_DELIVERY_API,
+  host: process.env.CONTENTFUL_HOST || 'csn.contentful.com',
+});
+
+module.exports = {
   clientWithEnv,
-}
+  clientMgmt,
+  clientDelivery,
+};

@@ -1,3 +1,5 @@
+/* eslint-disable no-console */
+/* eslint-disable no-await-in-loop */
 const path = require('path');
 const { csv, contentful, timing } = require('../common');
 
@@ -10,11 +12,11 @@ const itemCounter = 0;
     try {
       const id = ids[i];
       const entry = await contentfulClient.getEntry(id);
-      if(entry.isPublished()) {
+      if (entry.isPublished()) {
         console.log('UNPUBLISHED: ', entry.sys.id);
         await entry.unpublish();
       }
-      if(!entry.isArchived()) {
+      if (!entry.isArchived()) {
         console.log('ARCHIVED: ', entry.sys.id);
         await entry.archive();
       } else {
@@ -27,4 +29,3 @@ const itemCounter = 0;
   }
   console.log('DONE!');
 })();
- 
