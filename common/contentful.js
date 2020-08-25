@@ -18,7 +18,7 @@ const clientDelivery = (space, environment) => contentful.createClient({
   space,
   environment,
   accessToken: process.env.CONTENTFUL_DELIVERY_API,
-  host: process.env.CONTENTFUL_HOST || 'csn.contentful.com',
+  host: process.env.CONTENTFUL_HOST || 'cdn.contentful.com',
 });
 
 module.exports = {

@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node -r dotenv/config index.js",
+    "export": "node -r dotenv/config export.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +21,7 @@
   "devDependencies": {
     "contentful-management": "^5.8.0",
     "csv-parser": "^2.3.0",
-    "dotenv": "^8.0.0",
+    "dotenv": "^8.2.0",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-loader": "^2.1.2",
@@ -28,6 +30,8 @@
   },
   "dependencies": {
     "contentful": "^7.9.1",
+    "contentful-export": "^7.7.1",
+    "contentful-import": "^7.6.1",
     "contentful-migration": "^1.0.2",
     "faker": "^4.1.0"
   }

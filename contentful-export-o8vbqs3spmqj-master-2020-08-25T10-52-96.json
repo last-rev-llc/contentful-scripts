@@ -1,0 +1,3249 @@
+{
+  "entries": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "6pWJcgX8m8AJSaerIwhzUa",
+        "type": "Entry",
+        "createdAt": "2020-06-17T17:54:24.400Z",
+        "updatedAt": "2020-07-20T17:48:45.025Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "publishedAt": "2020-07-20T17:48:45.025Z",
+        "firstPublishedAt": "2020-06-17T18:03:08.441Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 16,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Facebook social media CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.facebook.com/uwhealth"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "Facebook"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "61YRmPK0OWXShw5Y8iC6Vq",
+        "type": "Entry",
+        "createdAt": "2020-06-17T18:03:27.356Z",
+        "updatedAt": "2020-07-21T02:18:50.735Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "publishedAt": "2020-07-21T02:18:50.735Z",
+        "firstPublishedAt": "2020-06-17T18:05:02.495Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 16,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Twitter social media CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://twitter.com/uwhealth"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "Twitter"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "41M7Gn2RWo2CTx7M7N2uMS",
+        "type": "Entry",
+        "createdAt": "2020-06-18T09:21:11.014Z",
+        "updatedAt": "2020-07-27T16:04:02.275Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 20,
+        "publishedAt": "2020-07-27T16:04:02.275Z",
+        "firstPublishedAt": "2020-06-18T09:27:33.115Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "publishedCounter": 5,
+        "version": 21,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Find a provider CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/findadoctor/"
+        },
+        "linkText": {
+          "en-US": "Find a provider"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "HABlgG1SSNWo3rR4TG5EQ",
+        "type": "Entry",
+        "createdAt": "2020-06-18T09:36:39.161Z",
+        "updatedAt": "2020-07-27T14:38:33.772Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "publishedAt": "2020-06-18T10:57:36.340Z",
+        "firstPublishedAt": "2020-06-18T09:41:25.112Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "76GOdG8ZHGtQfKi8MuDSaw"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 20,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Conditions and services CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "57I5pWHhU5NaYJrKPfTgRt"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Conditions and services"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "7EklfHK0Hg80r8XnKGt0L2",
+        "type": "Entry",
+        "createdAt": "2020-06-18T09:42:13.300Z",
+        "updatedAt": "2020-06-18T15:31:31.280Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "publishedAt": "2020-06-18T15:31:31.280Z",
+        "firstPublishedAt": "2020-06-18T09:45:49.068Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 13,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Locations and clinics CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Locations and clinics"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "3erYQE0IDykUNnMdFhoifI",
+        "type": "Entry",
+        "createdAt": "2020-06-18T09:50:04.215Z",
+        "updatedAt": "2020-07-24T18:08:02.804Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "publishedAt": "2020-07-24T18:08:02.804Z",
+        "firstPublishedAt": "2020-06-18T09:53:25.408Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 15,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Patients and families CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3swcAWtI7Huhqu5gM1EgdW"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Patients & Families"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "ZNj4yCCjMchJdAO81LH1q",
+        "type": "Entry",
+        "createdAt": "2020-06-18T09:55:06.508Z",
+        "updatedAt": "2020-07-24T18:29:34.892Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "publishedAt": "2020-07-24T18:29:34.892Z",
+        "firstPublishedAt": "2020-06-18T09:57:42.088Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 15,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Refer a Patient CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/health-professionals/patient-referral/how-to-refer-a-patient/10416"
+        },
+        "linkText": {
+          "en-US": "Refer a Patient"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "7EVixUH49cPpH55UKF9STM",
+        "type": "Entry",
+        "createdAt": "2020-06-18T12:59:39.960Z",
+        "updatedAt": "2020-07-27T14:58:48.968Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "publishedAt": "2020-07-27T14:58:48.968Z",
+        "firstPublishedAt": "2020-06-18T13:01:31.965Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 18,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Pinterest social media CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.pinterest.com/uwhealth/"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "6HHXF3MnDm6ghIlSRK9VJo",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:04:24.790Z",
+        "updatedAt": "2020-06-18T13:06:38.922Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "publishedAt": "2020-06-18T13:06:38.922Z",
+        "firstPublishedAt": "2020-06-18T13:06:38.922Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 9,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Pay a bill CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Pay a bill"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "5lvOTzAq30C5SnsK4xZnug",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:06:47.382Z",
+        "updatedAt": "2020-06-18T13:48:55.494Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "publishedAt": "2020-06-18T13:48:55.494Z",
+        "firstPublishedAt": "2020-06-18T13:07:25.479Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 12,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Refill a prescrition CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Refill a prescription"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2eIbXTdPgubWtIl6mEKwct",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:07:30.462Z",
+        "updatedAt": "2020-06-18T13:08:52.951Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2020-06-18T13:08:52.951Z",
+        "firstPublishedAt": "2020-06-18T13:08:52.951Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Order flower and gifts CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Order flower and gifts"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "7xf0maPnw9bQG6Ekq5QweR",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:09:05.387Z",
+        "updatedAt": "2020-06-18T13:09:52.787Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "publishedAt": "2020-06-18T13:09:52.787Z",
+        "firstPublishedAt": "2020-06-18T13:09:52.787Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 9,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Send a greeting card CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Send a greeting card"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2QQS3HFDkxEZSTHHk9hP14",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:32:50.168Z",
+        "updatedAt": "2020-07-21T16:04:48.256Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "publishedAt": "2020-07-21T16:04:48.256Z",
+        "firstPublishedAt": "2020-06-18T13:33:36.793Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6NsTvFWsfh0YVB1OkxRzvJ"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 11,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6NsTvFWsfh0YVB1OkxRzvJ"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Instagram social media CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.instagram.com/uw_health/"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "Instagram"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "37SQAoRR9kW7Qe9PVYPpXE",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:33:41.473Z",
+        "updatedAt": "2020-07-21T02:19:38.639Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2020-07-21T02:19:38.639Z",
+        "firstPublishedAt": "2020-06-18T13:34:38.017Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "LinkedIn social media CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.linkedin.com/company/uw-health"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "Linkedin"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "1DcUhxlWBx9Ns6wHj6OIuL",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:35:04.898Z",
+        "updatedAt": "2020-07-21T02:16:59.113Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2020-07-20T17:49:19.135Z",
+        "firstPublishedAt": "2020-06-18T13:35:43.259Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 17,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "17eNmazaQIuElgUQsC71do"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Youtube social media CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.youtube.com/user/UWHealthWI"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "Youtube"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2cZOce1hqvMk0uUX5Wltyb",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:36:13.325Z",
+        "updatedAt": "2020-06-18T13:37:20.079Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2020-06-18T13:37:20.079Z",
+        "firstPublishedAt": "2020-06-18T13:37:05.870Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Terms and conditions CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Terms and conditions"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "1n5qvrIQKoYTBbIQSPmQVz",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:38:21.001Z",
+        "updatedAt": "2020-06-18T13:39:17.612Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "publishedAt": "2020-06-18T13:39:17.612Z",
+        "firstPublishedAt": "2020-06-18T13:39:17.612Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 9,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Website privacy policy CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Website privacy policy"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2HViJdG1pn94n2r0przXtJ",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:49:00.436Z",
+        "updatedAt": "2020-06-18T13:50:43.365Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "publishedAt": "2020-06-18T13:50:43.365Z",
+        "firstPublishedAt": "2020-06-18T13:50:43.365Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 9,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Find a support group CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Find a support group"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "3oKI1PsWZp2c9MIfmWp6Ob",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:50:54.838Z",
+        "updatedAt": "2020-07-24T18:31:47.796Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2020-07-24T18:31:47.796Z",
+        "firstPublishedAt": "2020-06-18T13:51:42.382Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Careers CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://careers.uwhealth.org/"
+        },
+        "linkText": {
+          "en-US": "Careers"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "1KjfSoBXdIoPLIiwaTBh3w",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:51:54.861Z",
+        "updatedAt": "2020-07-24T18:32:51.666Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "publishedAt": "2020-07-24T18:32:51.666Z",
+        "firstPublishedAt": "2020-06-18T13:52:30.598Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 9,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "News CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/news/main/10435"
+        },
+        "linkText": {
+          "en-US": "News"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "4LFrAHLN6NtNajyGLZctDu",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:54:32.882Z",
+        "updatedAt": "2020-07-24T18:34:21.438Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "publishedAt": "2020-07-24T18:34:21.438Z",
+        "firstPublishedAt": "2020-06-18T13:55:17.297Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 12,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Classes - CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/our-services/center-for-wellness/class-registration-landing/46914"
+        },
+        "linkText": {
+          "en-US": "Classes"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "6LZEV2AKM4xppkSjSfAzN",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:55:32.313Z",
+        "updatedAt": "2020-06-18T13:56:10.560Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2020-06-18T13:56:10.560Z",
+        "firstPublishedAt": "2020-06-18T13:56:10.560Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Health blogs CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Health blogs"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "34SiyXWAQnjJ5V0wjDXLOC",
+        "type": "Entry",
+        "createdAt": "2020-06-18T13:56:18.787Z",
+        "updatedAt": "2020-06-18T13:57:15.411Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "publishedAt": "2020-06-18T13:57:15.411Z",
+        "firstPublishedAt": "2020-06-18T13:57:15.411Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 9,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Volunteering CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Volunteering"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2jWW2X94sAOjAuNlEx5inI",
+        "type": "Entry",
+        "createdAt": "2020-06-18T14:26:44.921Z",
+        "updatedAt": "2020-06-19T10:08:28.989Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "publishedAt": "2020-06-19T10:08:28.989Z",
+        "firstPublishedAt": "2020-06-18T14:27:51.698Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 15,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Employee home access CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Employee home access"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "1VdcY4KIwO3IpcuTrBl9Jq",
+        "type": "Entry",
+        "createdAt": "2020-06-18T14:48:48.961Z",
+        "updatedAt": "2020-06-18T14:49:27.639Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2020-06-18T14:49:27.639Z",
+        "firstPublishedAt": "2020-06-18T14:49:27.639Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Make a donation CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Make a donation"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "7FyrEi4iQr8tankZyAwJ5R",
+        "type": "Entry",
+        "createdAt": "2020-06-18T20:24:20.198Z",
+        "updatedAt": "2020-07-27T16:03:49.425Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "publishedAt": "2020-07-27T16:03:49.425Z",
+        "firstPublishedAt": "2020-06-18T20:26:08.546Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 15,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Video visits"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/care-anywhere/52358"
+        },
+        "linkText": {
+          "en-US": "Video visits"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "52h95tMKQscnNrhS00zdnQ",
+        "type": "Entry",
+        "createdAt": "2020-06-18T20:26:50.780Z",
+        "updatedAt": "2020-07-27T16:03:36.607Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "publishedAt": "2020-07-27T16:03:36.607Z",
+        "firstPublishedAt": "2020-06-18T20:28:14.507Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 16,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "OrthoCare Now CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/orthopedic-surgery-rehab/orthocare-now-same-day-care-for-orthopedic-needs/49911"
+        },
+        "linkText": {
+          "en-US": "OrthoCare Now"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "7dkz2BmJthpeTCP1lNgdbs",
+        "type": "Entry",
+        "createdAt": "2020-06-18T20:36:51.234Z",
+        "updatedAt": "2020-07-27T16:03:24.985Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 10,
+        "publishedAt": "2020-07-27T16:03:24.985Z",
+        "firstPublishedAt": "2020-06-18T20:38:22.872Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 11,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "e-Visits CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://uwhealthmychart.org/mychart/"
+        },
+        "linkText": {
+          "en-US": "e-Visits"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2Sc78cVgdNc34JnXktlNqp",
+        "type": "Entry",
+        "createdAt": "2020-06-18T20:40:29.037Z",
+        "updatedAt": "2020-07-27T16:03:15.215Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "publishedAt": "2020-07-27T16:03:15.215Z",
+        "firstPublishedAt": "2020-06-18T20:41:15.302Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 13,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Urgent Care CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/locations/main/10372#emergency_and_urgent_care"
+        },
+        "linkText": {
+          "en-US": "Urgent Care"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "5NMyjBVPg3b7HOiEiWQjAU",
+        "type": "Entry",
+        "createdAt": "2020-06-18T20:42:30.058Z",
+        "updatedAt": "2020-07-27T16:02:17.706Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 13,
+        "publishedAt": "2020-07-27T16:02:17.706Z",
+        "firstPublishedAt": "2020-06-18T20:43:48.543Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 14,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "3LxAC1aFs59Foj4v6NbE7m"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Emergency Care CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/emergency/emergency-medicine/10764"
+        },
+        "linkText": {
+          "en-US": "Emergency Care"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2i9QT0XQHyn6tlAhcybWyq",
+        "type": "Entry",
+        "createdAt": "2020-06-19T10:53:37.398Z",
+        "updatedAt": "2020-07-24T18:52:18.421Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "publishedAt": "2020-07-24T18:52:18.421Z",
+        "firstPublishedAt": "2020-06-19T11:02:24.854Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 13,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "About - CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/about-uwhealth/main/10730"
+        },
+        "linkText": {
+          "en-US": "About"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2c3IJz0FjHIiXE6XgjZ77v",
+        "type": "Entry",
+        "createdAt": "2020-06-19T11:02:30.038Z",
+        "updatedAt": "2020-07-16T17:43:03.527Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "publishedAt": "2020-06-19T11:20:47.093Z",
+        "firstPublishedAt": "2020-06-19T11:03:21.295Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "76GOdG8ZHGtQfKi8MuDSaw"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 13,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Diversity and inclusion CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Diversity and inclusion"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "w9BxN34mP2huY2hea3CG0",
+        "type": "Entry",
+        "createdAt": "2020-06-19T11:03:28.914Z",
+        "updatedAt": "2020-06-19T11:04:03.714Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2020-06-19T11:04:03.714Z",
+        "firstPublishedAt": "2020-06-19T11:04:03.714Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Media Center"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Media Center"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "72Be9IFexTAP7XX9z1DPEc",
+        "type": "Entry",
+        "createdAt": "2020-06-19T11:04:26.219Z",
+        "updatedAt": "2020-06-19T11:04:53.803Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2020-06-19T11:04:53.803Z",
+        "firstPublishedAt": "2020-06-19T11:04:53.803Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7sehcPoZAYrsrN7dRsjhMr"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contact Us"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "39aUlWNjsXsuhFqzt6B5sL"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Contact Us"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "7HqU1dnj8HRWPCJzqY89JZ",
+        "type": "Entry",
+        "createdAt": "2020-07-14T18:36:17.185Z",
+        "updatedAt": "2020-07-17T15:00:31.315Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 23,
+        "publishedAt": "2020-07-17T15:00:31.315Z",
+        "firstPublishedAt": "2020-07-15T17:11:50.216Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "13I2DxV3MeZnHH62EHNOJf"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "13I2DxV3MeZnHH62EHNOJf"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 24,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "13I2DxV3MeZnHH62EHNOJf"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "QA CTA title"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "uwhealth.org"
+        },
+        "anchorTagName": {
+          "en-US": "uwhealth.org"
+        },
+        "linkText": {
+          "en-US": "Go to uwhealth"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "5SKzNT8rD5yVCiso3TXrVD",
+        "type": "Entry",
+        "createdAt": "2020-07-24T18:17:34.975Z",
+        "updatedAt": "2020-07-24T18:18:23.371Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2020-07-24T18:18:23.371Z",
+        "firstPublishedAt": "2020-07-24T18:18:23.371Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "UW School of Medicine and Public Health CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.med.wisc.edu/"
+        },
+        "linkText": {
+          "en-US": "UW School of Medicine and Public Health"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "7zs14xqY9M9iMTWOjvtfLo",
+        "type": "Entry",
+        "createdAt": "2020-07-24T18:21:16.053Z",
+        "updatedAt": "2020-07-24T18:22:25.204Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2020-07-24T18:22:25.204Z",
+        "firstPublishedAt": "2020-07-24T18:22:06.460Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Health Facts For You - Landing Page CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4T2YuEii1cIYedDaow2G16"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Health Facts"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "6g7yxWCkHYxzACYOv3q31X",
+        "type": "Entry",
+        "createdAt": "2020-07-24T18:22:54.902Z",
+        "updatedAt": "2020-07-24T18:23:23.380Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2020-07-24T18:23:23.380Z",
+        "firstPublishedAt": "2020-07-24T18:23:23.380Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Healthwise - Landing Page CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1VHXqxUmcw3yppFJuGkIcb"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Healthwise"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "3uflWGAmXMY4JDScnWoY2N",
+        "type": "Entry",
+        "createdAt": "2020-07-24T18:24:16.275Z",
+        "updatedAt": "2020-07-24T18:25:10.295Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2020-07-24T18:25:10.295Z",
+        "firstPublishedAt": "2020-07-24T18:25:10.295Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "KidsHealth - Landing Page CTA"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4LDW5JEpqdKHzIE9Mvy11B"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "KidsHealth"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "2ErTfwg5XOimgJnTYdAB2I",
+        "type": "Entry",
+        "createdAt": "2020-07-24T18:35:54.456Z",
+        "updatedAt": "2020-07-24T18:36:26.724Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2020-07-24T18:36:26.724Z",
+        "firstPublishedAt": "2020-07-24T18:36:26.724Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Donate - CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://www.uwhealth.org/it-starts-with-you/41056"
+        },
+        "linkText": {
+          "en-US": "Donate"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "6bWqwIFYFLPYRSpf06DrUy",
+        "type": "Entry",
+        "createdAt": "2020-07-24T18:37:38.343Z",
+        "updatedAt": "2020-07-24T18:38:07.486Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2020-07-24T18:38:07.486Z",
+        "firstPublishedAt": "2020-07-24T18:38:07.486Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4H7fkU5ORnu9s05wlA93hB"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "MyChart - CTA"
+        },
+        "action": {
+          "en-US": "Go to External URL"
+        },
+        "externalUrl": {
+          "en-US": "https://uwhealthmychart.org/MyChart/Authentication/Login"
+        },
+        "linkText": {
+          "en-US": "MyChart"
+        },
+        "linkType": {
+          "en-US": "Text Link"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "o8vbqs3spmqj"
+          }
+        },
+        "id": "3eRQ3wjldQyT0gv2dbr1Su",
+        "type": "Entry",
+        "createdAt": "2020-08-14T12:27:33.834Z",
+        "updatedAt": "2020-08-14T12:30:33.704Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 13,
+        "publishedAt": "2020-08-14T12:30:33.704Z",
+        "firstPublishedAt": "2020-08-14T12:30:33.704Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5CDKAlObDibFxf9JXu5uAx"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5CDKAlObDibFxf9JXu5uAx"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 14,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5CDKAlObDibFxf9JXu5uAx"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "uieCta"
+          }
+        }
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "QA Test Remove"
+        },
+        "action": {
+          "en-US": "Go to Internal URL"
+        },
+        "internalUrl": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4T2YuEii1cIYedDaow2G16"
+            }
+          }
+        },
+        "linkText": {
+          "en-US": "Click here for HFFY"
+        },
+        "linkType": {
+          "en-US": "Light Solid Button"
+        },
+        "icon": {
+          "en-US": "None"
+        }
+      }
+    }
+  ],
+  "assets": [
+  ]
+}
