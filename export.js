@@ -23,6 +23,7 @@ const exportOptions = {
   // queryEntries: ['content_type=categoryTopLevel'],
 };
 
+// TODO: add mainLink to the Element Nav Link Model
 
 (async () => {
   // // Global
@@ -35,8 +36,17 @@ const exportOptions = {
   // const hf4 = await contentfulExport({...exportOptions, queryEntries: ['content_type=pageHealthFact&limit=200&skip=600']});
   // const hf5 = await contentfulExport({...exportOptions, queryEntries: ['content_type=pageHealthFact&limit=200&skip=800']});
   const uieCta = await contentfulExport({...exportOptions, queryEntries: ['content_type=uieCta']});
+  const elementNavLink = await contentfulExport({...exportOptions, queryEntries: ['content_type=elementNavLink']});
+  const layoutSection = await contentfulExport({...exportOptions, queryEntries: ['content_type=layoutSection']});
+  const moduleCardGeneral = await contentfulExport({...exportOptions, queryEntries: ['content_type=moduleCardGeneral']});
+  const moduleCategoryList = await contentfulExport({...exportOptions, queryEntries: ['content_type=moduleCategoryList']});
+  const moduleHero = await contentfulExport({...exportOptions, queryEntries: ['content_type=moduleHero']});
+  const pageGeneral = await contentfulExport({...exportOptions, queryEntries: ['content_type=pageGeneral']});
+  const moduleLinkList = await contentfulExport({...exportOptions, queryEntries: ['content_type=moduleLinkList']});
+  const moduleRichText = await contentfulExport({...exportOptions, queryEntries: ['content_type=moduleRichText']});
+  const settingsGlobal = await contentfulExport({...exportOptions, queryEntries: ['content_type=settingsGlobal']});
 
-  const allEntries = [].concat(uieCta.entries);
+  const allEntries = [].concat(uieCta.entries, elementNavLink.entries, layoutSection.entries, moduleCardGeneral.entries, moduleCategoryList.entries, moduleHero.entries, pageGeneral.entries, moduleLinkList.entries, moduleRichText.entries, settingsGlobal.entries);
   // console.log(assets);
   await contentfulImport({
     content: {
@@ -45,6 +55,6 @@ const exportOptions = {
     },
     spaceId: '4yx69hifndy8',
     managementToken: process.env.CONTENTFUL_MANAGEMENT_API,
-    environmentId: 'patient-migration',
+    environmentId: 'master',
   });
 })();
